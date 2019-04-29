@@ -1,6 +1,9 @@
 # MCPBot_Reborn-Issues
 Issue tracker for MCPBot and MCP mappings.
 
+If you're planning to suggest name changes or are generally mapping, please make yourself familiar with
+our [conventions](CONVENTIONS.md).
+
 ## What this tracker is for:
 - Issues with using MCPBot_Reborn on irc.esper.net
 - Issues with mappings (wrong names, unnecessary name changes, etc)
