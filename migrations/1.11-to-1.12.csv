@@ -1,0 +1,17 @@
+net.minecraft.client.renderer.VertexBuffer,net.minecraft.client.renderer.BufferBuilder
+net.minecraft.client.renderer.tileentity.RenderEnderCrystal,net.minecraft.client.renderer.entity.RenderEnderCrystal
+net.minecraft.client.renderer.tileentity.RenderItemFrame,net.minecraft.client.renderer.entity.RenderItemFrame
+net.minecraft.client.renderer.tileentity.RenderWitherSkull,net.minecraft.client.renderer.entity.RenderWitherSkull
+net.minecraft.entity.boss.EntityDragonPart,net.minecraft.entity.MultiPartEntityPart
+net.minecraft.world.BossInfoLerping,net.minecraft.client.gui.BossInfoClient
+net.minecraft.world.WorldSavedData,net.minecraft.world.storage.WorldSavedData
+net.minecraft.world.WorldSavedDataCallableSave,net.minecraft.world.storage.WorldSavedDataCallableSave
+net.minecraft.world.chunk.IChunkGenerator,net.minecraft.world.gen.IChunkGenerator
+net.minecraft.world.demo.DemoWorldManager,net.minecraft.server.management.DemoPlayerInteractionManager
+net.minecraft.world.demo.DemoWorldServer,net.minecraft.world.WorldServerDemo
+net.minecraft.world.gen.ChunkProviderDebug,net.minecraft.world.gen.ChunkGeneratorDebug
+net.minecraft.world.gen.ChunkProviderEnd,net.minecraft.world.gen.ChunkGeneratorEnd
+net.minecraft.world.gen.ChunkProviderFlat,net.minecraft.world.gen.ChunkGeneratorFlat
+net.minecraft.world.gen.ChunkProviderHell,net.minecraft.world.gen.ChunkGeneratorHell
+net.minecraft.world.gen.ChunkProviderOverworld,net.minecraft.world.gen.ChunkGeneratorOverworld
+net.minecraft.world.gen.ChunkProviderSettings,net.minecraft.world.gen.ChunkGeneratorSettings
