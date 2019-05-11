@@ -1,7 +1,7 @@
 import re
 import sys
 
-# This script generates IntelliJ migration maps from the CSV files, allowing you to automatically
+# This script generates IntelliJ migration maps from the CSV files in migrations/, allowing you to automatically
 #   perform renames across your entire project all at once.
 # Usage: python migrationMapGenerator.py <input.csv|input.tsrg> <output path>
 # Then, drop the resulting XML file into your Intellij migrations directory. 
