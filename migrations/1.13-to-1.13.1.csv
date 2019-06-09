@@ -51,4 +51,4 @@ net.minecraft.world.ChunkCache,net.minecraft.world.Region
 net.minecraft.world.ColorizerFoliage,net.minecraft.world.FoliageColors
 net.minecraft.world.ColorizerGrass,net.minecraft.world.GrassColors
 net.minecraft.world.biome.BiomeColorHelper,net.minecraft.world.biome.BiomeColors
-net.minecraft.world.gen.feature.GlowStoneFeature,net.minecraft.world.gen.feature.
+net.minecraft.world.gen.feature.GlowStoneFeature,net.minecraft.world.gen.feature.GlowstoneFeature
